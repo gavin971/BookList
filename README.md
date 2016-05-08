@@ -211,7 +211,7 @@
 ####《AngularJs》
 ####《Practical Node.js: Build Real World Scalable web apps》
 ####《Dotnet code review》 https://www.pluralsight.com/courses/dotnet-code-reviews-real-world-lessons
-########《Defensive coding CSharp》 https://www.pluralsight.com/courses/defensive-coding-csharp
+####《Defensive coding CSharp》 https://www.pluralsight.com/courses/defensive-coding-csharp
 ####《C# Async》 -- https://www.pluralsight.com/courses/skeet-async
 ####《Enterprise WPF》 -- https://www.pluralsight.com/courses/enterprise-wpf-xaml-csharp-from-scratch
 ####《Building a Site with Bootstrap, AngularJS, ASP.NET, EF and Azure》 http://www.pluralsight.com/courses/site-building- bootstrap-angularjs-ef-azure
