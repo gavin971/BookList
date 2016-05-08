@@ -75,7 +75,7 @@
 ####《Architecting Applications for the Real World in .NET》 https://app.pluralsight.com/library/courses/architecting-applications-dotnet/table-of-contents
 ####《Dotnet code review》 https://www.pluralsight.com/courses/dotnet-code-reviews-real-world-lessons
 ####《Defensive coding CSharp》 https://www.pluralsight.com/courses/defensive-coding-csharp
-####《C# Async》 -- https://www.pluralsight.com/courses/skeet-async
+####《C# Async》https://www.pluralsight.com/courses/skeet-async
 ####《Enterprise WPF》 -- https://www.pluralsight.com/courses/enterprise-wpf-xaml-csharp-from-scratch
 ####《Building a Site with Bootstrap, AngularJS, ASP.NET, EF and Azure》 http://www.pluralsight.com/courses/site-building- bootstrap-angularjs-ef-azure
 ####《Asp.net MVC4》 http://pluralsight.com/training/Player?author=scott-allen&name=mvc4-building-m6-ajax&mode=live&clip=0&course=mvc4-building
