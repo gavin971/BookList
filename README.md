@@ -36,7 +36,7 @@
 ####《Service Virtualization: Reality Is Overrated》
 
 
-##----------------------------------算法和数据结构----------------------------------------------
+##----------------------------------算法和数据结构---------------------------------------------
 ####《计算机程序设计艺术》
 ####《编程珠玑》Programming Pearls, 2nd edition, by Jon Bentley (Addison-Wesley Professional, 1999)
 ####《算法导论》
@@ -82,7 +82,7 @@
 ####《Building Web Apps & Services with Entity Framework and Web API》 -- https://www.pluralsight.com/courses/building-web-apps-services-aspdotnet-ef-webapi
 
 
-##----------------------------------Architecture and Pattern---------------------------
+##----------------------------------Architecture and Pattern--------------------------
 ####《Refactoring to Patterns》（《重构设计模式》）
 ####《重构:改善既有代码的设计》
 ####《设计模式与解析 Design pattern explained》
@@ -155,7 +155,7 @@
 
 
 
-##----------------------------------JavaScript and Web------------------------------------------
+##----------------------------------JavaScript and Web----------------------------------
 ####《Professional javascript for web developers 3rd edition》
 ####《JavaScript: The Good Parts, by Douglas Crockford (O’Reilly, 2008)》
 ####《JavaScript 语言精髓》
