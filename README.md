@@ -141,7 +141,6 @@
 ####《Beginning ASP.NET 4.5 Database, Third Edition》
 ####《C#设计模式》
 ####《Essential C#》
-####《Async in C# 5.0.pdf》
 ####《Effective C#》
 ####《More Effective C#》
 ####《C# in depth》
@@ -150,6 +149,7 @@
 ####《Design Patterns in C#》 by Steve Metsker
 ####《C# Sepcification》
 ####《WPF guide tour》http://www.codeproject.com/Articles/18232/A-Guided-Tour-of-WPF-Part-XAML
+####《WPF 4.5 Unleashed》
 ####《Advanced mvvm》
 
 ##----------------------------------Java-------------------------------------------------
@@ -203,6 +203,8 @@
 ####《4 本免费的 Perl 语言编程书籍》https://linuxtoy.org/archives/4-free-perl-books.html
 
 #-------------------------已完成------------------------------
+####《Concurrency in C# Cookbook》
+####《Async in C# 5.0》
 ####《Essential C#5.0》
 ####《Pro Node.js for developers》
 ####《SOLID Principles of Object Oriented Design》 https://app.pluralsight.com/library/courses/principles-oo-design/table-of-contents
