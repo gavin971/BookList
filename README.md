@@ -1,5 +1,6 @@
 # 书单
 ##----------------------------------General----------------------------------------------
+####男性一生必读的100本书http://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=217030815&idx=4&sn=c655c3358b222ca6869c45d8e0bb356c&scene=5#rd
 ####《程序员必读书单 1.0》http://zh.lucida.me/blog/developer-reading-list/
 ####《97 things every programmer should know》
 ####《The pragmatic programmer: from journeyman to master》
