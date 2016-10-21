@@ -8,6 +8,7 @@
 ####《编码：隐匿在计算机软硬件背后的语言》
 ####《Working Effectively with Legacy Code》
 ####《代码大全2》
+####《计算机程序的构造和解释》
 ####《程序员修炼之道：从小工到专家》
 ####《编译原理》
 ####《哥德尔，艾舍尔，巴赫书：集异壁之大成》
@@ -47,11 +48,18 @@
 ####《必然》
 ####《大数据时代:生活、工作与思维的大变革》
 ####《支付战争》
+####《数学之美》吴军
+
+##----------------------------------安全-----------------------------------------
+####《Wireshark网络分析艺术》
+####《请君入瓮--APT攻防指南之兵不厌诈》
 
 ##----------------------------------软件工程--------------------------------------
 ####《人月神话》
 ####《Pepopleware》
 ####《人件集：人性化的软件开发》
+####《软技能：代码之外的生存指南》
+####《哥德尔、艾舍尔、巴赫书：集异璧之大成》
 
 ##----------------------------------算法和数据结构--------------------------------------
 ####《编程珠玑》Programming Pearls, 2nd edition, by Jon Bentley (Addison-Wesley Professional, 1999)
@@ -83,6 +91,10 @@
 ####《数据挖掘：概念与技术》
 ####《大数据：互联网大规模数据挖掘与分布式处理》
 ####《数据挖掘-实用机器学习技术》
+####《Redis》
+####《Python金融大数据分析》
+####《R数据可视化手册》
+####《数据科学实战手册》（R+Python)
 
 ##----------------------------------PluralSight Video---------------------------------
 ####《SOLID Principles of Object Oriented Design》 https://app.pluralsight.com/library/courses/principles-oo-design/table-of-contents
@@ -178,6 +190,7 @@
 ####《High Performance JavaScript》
 ####《JavaScript设计模式》
 ####《AngularJs》
+####《AngularJs高级程序设计》
 ####《Beginning CSS Web Development》
 ####《了不起的Node.js：将javascript进行到底----Smashing Node.js: javascript everywhere》
 ####《Pro Node.js for developers》
@@ -189,6 +202,7 @@
 ####《精通CSS:高级Web标准解决方案(2)》
 ####《精彩绝伦的CSS》
 ####《Web 可用性设计》
+####《React导学》
 
 ##----------------------------------GO-----------------------------------------------
 ####《Go语言编程----The Go programming language》
