@@ -204,6 +204,18 @@
 #### 《Beej的 C 语言教程》（Beej’s Guide to C Programming）
 #### 《现代 C 语言》（Modern C）
 #### 《GCC简介》（An Introduction to GCC）
+#### 《Boost C++ 类库》
+#### 《C++ 注释》
+#### 《通过 C++ 和 Qt4 了解设计模式》
+#### 《像计算机科学家一样思考：C++》
+#### 《C++ Qt3 图形界面编程》
+#### 《开放数据结构（C++ 版）》
+#### 《使用 wxWidgets 进行跨平台 GUI 编程》
+#### 《Rook 的 C++ 指南》
+#### 《GCC 简介》
+#### 《Thinking in C++，第二版，卷一、卷二》
+#### 《C++ In Action:Industrial Strength Programming》
+#### 《编程原理与体验（C++ 版） (第二版》
 
 ## - ---------------------------------JavaScript and Web----------------------------------
 #### 《Professional javascript for web developers 3rd edition》
