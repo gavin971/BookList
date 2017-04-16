@@ -2,6 +2,34 @@
 ## ----------------------------------General----------------------------------------------
 #### 男性一生必读的100本书http://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=217030815&idx=4&sn=c655c3358b222ca6869c45d8e0bb356c&scene=5#rd
 #### 《程序员必读书单 1.0》http://zh.lucida.me/blog/developer-reading-list/
+#### https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664607233&idx=1&sn=4148c00e39cbde9a6b7ec5cb4c0e79ed&mpshare=1&scene=1&srcid=0416q3KzY8hgqSg6IZ7kYLBT&pass_ticket=H2DtW%2F81GOxQRsjnoSzLuDs1trj3gTRVXRIin2VXoUPsh0zX1adSXCeCZ2tJLGua#rd
+#### 《六顶思考帽》    作者：Edward de Bono
+#### 《少有人走的路》    作者：M·斯科特·派克
+#### 《定位》    作者：杰克·特劳特
+#### 《卓有成效的管理者》    作者：德鲁克
+#### 《麦肯锡方法》    作者：艾森·拉塞尔
+#### 《一网打尽》    作者：布拉德·斯通
+#### 《Giveand Take》    作者： Chris Raschka
+#### 《黑客与画家》    作者：保罗·格雷厄姆
+#### 《Nudge 助推》    作者：理查德·H·泰勒
+#### 《Rework》    作者：JasonFried、David Heinemeier Hansson
+#### 《打造Facebook》    作者：王淮，祝文让
+#### 《向军队学管理》    作者：范爱民
+#### 《联盟》    作者：里德·霍夫曼、本·卡斯诺查、克里斯·叶
+#### 《创新者的窘境》、《创新者的解答》    作者：克莱顿·克里斯坦森
+#### 《Software Design 中文版 03》
+#### 《白帽子讲浏览器安全》
+#### 《黑客秘笈:渗透测试实用指南》
+#### 《黑客攻防技术宝典:Web实战篇（第2版）》
+#### 《Python黑帽子:黑客与渗透测试编程之道》
+#### 《Python绝技:运用Python成为顶级黑客》
+#### 《Python灰帽子:黑客与逆向工程师的Python编程之道》
+#### 《Web 2.0 駭客技術揭密》
+#### 《A History of Mathematics | 数学史》作者：Carl B. Boyer
+#### 《Journeys Through Genius | 天才引导的历程：数学中的伟大定理》
+#### 《The Mathematical Experience | 数学经验》作者 Philip J.Davis、Reuben Hersh
+#### 《Proofs from the Book | 数学天书中的证明》作者：Martin Aigner、Günter M. Ziegler
+#### 《Proofs and Refutations | 证明与反驳－数学发现的逻辑》作者：Imre Lakatos
 #### 《97 things every programmer should know》
 #### 《The pragmatic programmer: from journeyman to master》
 #### 《淘宝技术这十年》
