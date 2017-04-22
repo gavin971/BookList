@@ -1,3 +1,4 @@
+https://www.pluralsight.com/id/forgotpassword/reset?token=bhvahql50uwvFoPv43ivGY4iNhgAVwWzc0cr4rLEtjE%3D
 # 书单
 ## ----------------------------------General----------------------------------------------
 #### 男性一生必读的100本书http://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=217030815&idx=4&sn=c655c3358b222ca6869c45d8e0bb356c&scene=5#rd
